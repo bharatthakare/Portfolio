@@ -234,3 +234,7 @@ html {
 .group-hover\:animate-icon-flame:hover {
   animation: icon-flame 1.5s ease-in-out infinite;
 }
+
+a[href*="vercel.com"] {
+  display: none !important;
+}
