@@ -929,6 +929,7 @@ export default function Portfolio() {
                   "A blog platform for sharing articles and tutorials on web technologies.",
                 image: "/SOCIALMEDIA.jpg?height=300&width=500",
                 tags: ["Next.js", "TypeScript", "Chart.js", "Firebase"],
+                url: "https://webdevfuturebt.netlify.app/;",
               },
               {
                 title: "Task Management App",
@@ -973,7 +974,13 @@ export default function Portfolio() {
                   <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex items-end">
                     <div className="p-4 w-full">
                       <button className="w-full py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 transition-colors">
-                        View Project
+                        <a
+                          href="https://webdevfuturebt.netlify.app/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          View Project
+                        </a>
                       </button>
                     </div>
                   </div>
