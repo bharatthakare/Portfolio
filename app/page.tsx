@@ -924,9 +924,9 @@ export default function Portfolio() {
                 tags: ["React", "Node.js", "MongoDB", "Stripe"],
               },
               {
-                title: "Social Media Dashboard",
+                title: "Web Tech. Blog",
                 description:
-                  "Analytics dashboard for social media managers with real-time data visualization.",
+                  "A blog platform for sharing articles and tutorials on web technologies.",
                 image: "/SOCIALMEDIA.jpg?height=300&width=500",
                 tags: ["Next.js", "TypeScript", "Chart.js", "Firebase"],
               },
