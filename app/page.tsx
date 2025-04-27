@@ -1016,7 +1016,7 @@ export default function Portfolio() {
                 title: "The Future of Web Development in 2023",
                 excerpt:
                   "Exploring upcoming trends and technologies that will shape web development in the coming year.",
-                date: "June 15, 2023",
+                date: "April 1, 2025",
                 image: "/webdevblog.jpg?height=250&width=400",
                 category: "Web Development",
               },
@@ -1024,7 +1024,7 @@ export default function Portfolio() {
                 title: "Mastering TypeScript: Tips and Tricks",
                 excerpt:
                   "Advanced techniques to improve your TypeScript code and boost productivity.",
-                date: "May 22, 2023",
+                date: "Feb 22, 2025",
                 image: "/TypeScriptBlog.jpg?height=250&width=400",
                 category: "TypeScript",
               },
@@ -1032,7 +1032,7 @@ export default function Portfolio() {
                 title: "Building Accessible Web Applications",
                 excerpt:
                   "Best practices for creating inclusive web experiences that work for everyone.",
-                date: "April 10, 2023",
+                date: "April 10, 2025",
                 image: "/webapp.jpg?height=250&width=400",
                 category: "Accessibility",
               },
