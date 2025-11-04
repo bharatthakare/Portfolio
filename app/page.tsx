@@ -242,7 +242,7 @@ export default function Portfolio() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div className="relative h-80 md:h-96 rounded-lg overflow-hidden shadow-xl transform transition-transform hover:scale-105">
               <Image
-                src="/placeholder-user.jpg?height=600&width=500"
+                src="/Untitled design_20251028_094831_0000.jpg?height=600&width=400"
                 alt="Profile"
                 fill
                 className="object-cover"
